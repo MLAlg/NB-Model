@@ -1,6 +1,6 @@
-# NB-Model
-Naïve Bayes Model
+# NB-Classifier
+Naïve Bayes Classifier
 
-Naïve Bayes Classifier,
-Statistical Learning Method,
+problem: classification
+type: Statistical Learning Method,
 dataset: 20newsgroups,
