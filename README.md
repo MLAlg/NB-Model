@@ -1,6 +1,8 @@
 # NB-Classifier
 Naïve Bayes Classifier
 
-problem: classification
+problem: classification,
+
 type: Statistical Learning Method,
+
 dataset: 20newsgroups,
